@@ -3,10 +3,10 @@ var teams = null;
 var schedule = null;
 var authKey = "0GXyRvn6xoZQy5Cnmhsz586R53UtMzB8Iho7LNdtQydk8SVpKeVw6NUgqRApoBu2";
 /**
- * Get list of teams in event
+ * Get list of teams in event 
  *
  * @param {eventCode} eventCode the event code (i.e. 2020caln) to pull the team list
- */
+  test */
 function getTeams(eventCode) {
 	if (authKey) {
 		var xmlhttp = new XMLHttpRequest();
