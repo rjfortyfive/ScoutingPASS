@@ -2,7 +2,6 @@
 //
 // The guts of the ScountingPASS application
 // Written by Team 2451 - PWNAGE
-//test to commit
 document.addEventListener("touchstart", startTouch, false);
 document.addEventListener("touchend", moveTouch, false);
 
